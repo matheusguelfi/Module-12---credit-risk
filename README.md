@@ -2,7 +2,7 @@
 this analysis is to correctly identify risky and healthy loans using supervised learning.
 We use Logistics Regression model and Random Oversampler to help create a machine learning classification model that can help with the purpose of identifying loans correctly.
 
-##Technologies
+## Technologies
 
 - Scikit Learn
 - scikit metrics
